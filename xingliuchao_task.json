@@ -43,5 +43,10 @@
     "10 9 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/ttwk/ttwk.js, tag=支付宝天天挖矿, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/ttwk.png, enabled=true",
     "11 7 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/kuaishou.js, tag=快手极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/kuaishou.png, enabled=true",
     "15 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_family.js, tag=京东家庭, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
+    "30 * * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_gyec.js, tag=京东爱消除, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
+    "1 8,9 14-31/1 1 * https://raw.githubusercontent.com/shylocks/Loon/main/jd_bj.js, tag=宝洁美发屋, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
+
+
+
   ]
 }
