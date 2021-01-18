@@ -50,7 +50,7 @@
     "10 5 */2 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js, tag=中青自动阅读 ,img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
     "20 */20 10 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js, tag=中青浏览赚 ,img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
     "*/30 * * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js, tag=百度极速版 ,img-url=https://github.com/Sunert/ProxyConfig/raw/master/QuantumultX/Rules/Images/ICON/baiduspeed.png",
-    
+    "*/30 * * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_ns.js, tag=京东炸年兽🧨, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
     
     
     
