@@ -65,7 +65,7 @@
      "1 8,21 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_firecrackers.js, tag=集鞭炮🧨赢京豆, img-url=https://qxzy.top/rules/QuantumultX/img/jd_nian.png, enabled=true",
      "0 8,12,18 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jx_nclxk.js, tag=京喜农场lxk, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxnc.png, enabled=true",
      "1 7 * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_mh.js, tag=盲盒抽京豆, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_mh.jpg, enabled=true",
-     "12 * * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_pigPet.js, tag=京东金融-养猪猪 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_pigPet.png, enabled=true",
+     "12 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_pigPet.js, tag=京东金融-养猪猪 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_pigPet.png, enabled=true",
     "6 * * * * https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd.js, tag=京喜财富岛 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jx_cfd.png, enabled=true",
     "8 */3 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_daily_egg.js, tag=京东金融-天天提鹅 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_daily_egg.png, enabled=true",
     "7 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js, tag=京东到家 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jddj.png, enabled=true",
@@ -79,7 +79,7 @@
     "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺, img-url=https://raw.githubusercontent.com/Orz-3/task/master/iQIYI.png, enabled=true",
     "0 13 9 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js, tag=🐕东排行榜, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "0 6 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_nsar.js, tag=京东AR炸年兽, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_nian.png, enabled=true",
-    
+    "45 8 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian_wechat.js, tag=京东小程序炸年兽🧨, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_nian.png, enabled=true",
     
     
     
