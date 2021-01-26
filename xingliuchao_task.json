@@ -81,7 +81,7 @@
     "0 6 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_nsar.js, tag=京东AR炸年兽, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_nian.png, enabled=true",
     "45 8 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian_wechat.js, tag=京东小程序炸年兽🧨, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_nian.png, enabled=true",
     "1 0 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_sgmh.js, tag=京东盲盒 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_wechat_sign.png, enabled=true",
-    "30 9 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_sjnzj.js, tag=京东手机年终奖, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_festival2.jpg, enabled=true"
+    "1 1 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_sjnzj.js, tag=京东手机年终奖, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_festival2.jpg, enabled=true"
 
     
     
