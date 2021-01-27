@@ -83,6 +83,7 @@
     "1 0 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_sgmh.js, tag=京东盲盒 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_wechat_sign.png, enabled=true",
     "1 1 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_sjnzj.js, tag=京东手机年终奖, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_festival2.jpg, enabled=true",
     "5 8 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_immortal_answer.js, tag=京东书院答题, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
+    "5 0 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_superbox.js, tag=超级盒子, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     
     
   ]
