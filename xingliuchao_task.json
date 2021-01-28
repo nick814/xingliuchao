@@ -63,7 +63,6 @@
     "1 7 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_shuyuan.js, tag=🐕东神仙书院, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
     "7 7 * * * https://raw.githubusercontent.com/xingliuchao/jx/shylocks/jd_sx.js, tag=海产新年抽奖, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_wechat_sign.jpg, enabled=true",
      "1 8,21 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_firecrackers.js, tag=集鞭炮🧨赢京豆, img-url=https://qxzy.top/rules/QuantumultX/img/jd_nian.png, enabled=true",
-     "0 8,12,18 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jx_nclxk.js, tag=京喜农场lxk, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxnc.png, enabled=true",
      "1 7 * * * https://raw.githubusercontent.com/xingliuchao/jx/shylocks/jd_mh.js, tag=盲盒抽京豆, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_mh.jpg, enabled=true",
      "12 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_pigPet.js, tag=京东金融-养猪猪 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_pigPet.png, enabled=true",
     "6 * * * * https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd.js, tag=京喜财富岛 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jx_cfd.png, enabled=true",
