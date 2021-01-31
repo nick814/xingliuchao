@@ -85,7 +85,7 @@
     "5 0 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_superbox.js, tag=超级盒子, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "0 0 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_coupon.js, tag=源头好物红包, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_coupon.jpg, enabled=true",
     "0 0,6,12,18 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd5G.js, tag=5G狂欢城, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
-    "0 0,1 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_qdhb.js, tag=红包签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
+    "0 0,1 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jdhb.js, tag=红包签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     
     
     
