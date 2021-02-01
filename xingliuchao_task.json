@@ -80,8 +80,8 @@
     "20 0 0,1 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jdhb.js, tag=红包签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "0 5,10,23 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_ysq.js, tag=压岁钱, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "0 0 9,12,16,20 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney_lottery.js, tag=京东百元卡压岁钱, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
-     "1 6-21/1 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_zd.js, tag=京东种豆得豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzd.png, enabled=true",
-    
+    "1 6-21/1 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_zd.js, tag=京东种豆得豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzd.png, enabled=true",
+    "5 * * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_ddgc.js, tag=东东工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_factory.png, enabled=true",
     
     
     
