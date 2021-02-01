@@ -76,11 +76,11 @@
     "0 0 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_coupon.js, tag=源头好物红包, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_coupon.jpg, enabled=true",
     "0 0,6,12,18 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd5G.js, tag=5G狂欢城, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "20 0 0,1 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jdhb.js, tag=红包签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
-    "0 5,10,23 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_ysq.js, tag=压岁钱, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
+    "1 */2 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_ysq.js, tag=压岁钱, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "0 0 9,12,16,20 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney_lottery.js, tag=京东百元卡压岁钱, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "1 6-21/1 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_zd.js, tag=京东种豆得豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzd.png, enabled=true",
     "5 * * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_ddgc.js, tag=东东工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_factory.png, enabled=true",
-    "10 * * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jx_gc.js, tag=京喜工厂, img-url=https://github.com/58xinian/icon/raw/master/jdgc.png, enabled=true",
+    "8 * * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jx_gc.js, tag=京喜工厂, img-url=https://github.com/58xinian/icon/raw/master/jdgc.png, enabled=true",
     
     
   ]
