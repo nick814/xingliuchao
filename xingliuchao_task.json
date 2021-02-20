@@ -68,7 +68,7 @@
     "0 9,12,20,21 2-22 2 * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_huanqiu.js, tag=2/22京东环球, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "0 7 19-25 2 * https://raw.githubusercontent.com/DoveBoy/jd_scripts/master/jd_nzmh.js, tag=2/25女装盲盒, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "0 7 * * * https://raw.githubusercontent.com/DoveBoy/jd_scripts/master/jd_speed_sign.js, tag=京东极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
-    "0 0 * * * https://raw.githubusercontent.com/DoveBoy/jd_scripts/master/js_redpacket.js, tag=京东极速版天天领红包, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
+    "0 0 * * * https://raw.githubusercontent.com/DoveBoy/jd_scripts/master/jd_speed_redpocke.js, tag=京东极速版天天领红包, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     
     
     
