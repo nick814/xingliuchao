@@ -8,7 +8,7 @@
     "12 */1 * * * https://raw.githubusercontent.com/xingliuchao/jd/cp-jd/jd_joy_feedPets.js, tag=宠汪汪喂食, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
     "0 0,6 * * * https://raw.githubusercontent.com/xingliuchao/jd/cp-jd/jd_joy_steal.js, tag=宠汪汪偷好友积分与狗粮, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
     "15 10 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_joy_run.js , tag=宠汪汪邀请助力与赛跑助力, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
-    "1 0,8,12,16 * * * https://raw.githubusercontent.com/xingliuchao/jd/cp-jd/jd_joy_reward.js , tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
+    "1 0,8,12,16 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy_reward.js.js , tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "8 */3 * * * https://raw.githubusercontent.com/xingliuchao/jd/cp-jd/jd_speed.js , tag=京东天天加速, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "17 */5 * * * https://raw.githubusercontent.com/xingliuchao/jd/cp-jd/jd_moneyTree.js , tag=京东摇钱树, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "5 0 * * * https://raw.githubusercontent.com/xingliuchao/jd/cp-jd/jd_club_lottery.js , tag=摇京豆, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
@@ -44,6 +44,7 @@
    "8 8 * * * https://raw.githubusercontent.com/xingliuchao/jd/cp-jd/jd_get_share_code.js, tag=京东互助码, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_get_share_code.png, enabled=true",
      "12 * * * * https://raw.githubusercontent.com/xingliuchao/jd/cp-jd/jd_pigPet.js, tag=京东金融-养猪猪 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_pigPet.png, enabled=true",
     "6 * * * * https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd.js, tag=京喜财富岛 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jx_cfd.png, enabled=true",
+    "0 0 * * * https://raw.githubusercontent.com/xingliuchao/tests/master/cfd-tx.js, tag=财富岛TX , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jx_cfd.png, enabled=true",
     "8 */3 * * * https://raw.githubusercontent.com/xingliuchao/jd/cp-jd/jd_daily_egg.js, tag=京东金融-天天提鹅 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_daily_egg.png, enabled=true",
     "7 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js, tag=京东到家 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jddj.png, enabled=true",
     "20 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js, tag=喜马拉雅签到 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/ximalaya.png, enabled=true",
@@ -69,7 +70,7 @@
     "1 */8 * 2-4 * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_daka.js, tag=🐕大咖 , img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "0 8 1-8/1,27,28 2,3 * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_nzmh.js, tag=女装盲盒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
     "1 */6 * * * https://raw.githubusercontent.com/xingliuchao/tests/master/try.js, tag=🐕试用, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
-    
+    "
     
     
   ]
