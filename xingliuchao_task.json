@@ -67,7 +67,6 @@
     "0 7 * * * https://raw.githubusercontent.com/xingliuchao/jd/cp-jd/jd_speed_sign.js, tag=京东极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "0 0 * * * https://raw.githubusercontent.com/xingliuchao/jd/cp-jd/jd_speed_redpocke.js, tag=京东极速版天天领红包, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "1 0 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_cj.js, tag=🐕抽奖, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
-    "1 */8 * 2-4 * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_daka.js, tag=🐕大咖 , img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "0 8 1-8/1,27,28 2,3 * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_nzmh.js, tag=女装盲盒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
     "1 */6 * * * https://raw.githubusercontent.com/xingliuchao/tests/master/try.js, tag=🐕试用, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "0 8,21 1-8/1 3 * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_firecrackers.js, tag=她的节享京豆, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
