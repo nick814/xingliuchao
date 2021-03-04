@@ -70,6 +70,10 @@
     "0 8 1-8/1,27,28 2,3 * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_nzmh.js, tag=女装盲盒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
     "1 */6 * * * https://raw.githubusercontent.com/xingliuchao/tests/master/try.js, tag=🐕试用, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "0 8,21 1-8/1 3 * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_firecrackers.js, tag=她的节享京豆, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+    "*/30 * * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.js, tag=悦动qz, img-url=https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.png, enabled=true",
+    
+    
+    
     
     
   ]
